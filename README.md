@@ -1,6 +1,6 @@
 # manage_customers_sqlite
 
-
+A new Flutter project.
 
 ## Getting Started
 
